@@ -1,46 +1,14 @@
 # Excel-Analytics
 
 Sales Report
-Project Objective:
 
-Develop a customer performance report.
-Compare market performance against sales targets.
-Purpose of Sales Analytics:
+•	Project Objective:
+1	Develop a customer performance report.
+2	Compare market performance against sales targets.
 
-Enable businesses to monitor and evaluate sales activities effectively.
-Importance of Sales Data Analysis:
-
-Identify sales patterns and track key performance indicators (KPIs).
-Role of Reports:
-
-Optimize customer discounts for better retention.
-Support negotiation strategies with consumers.
-Identify potential markets for business expansion.
-Finance Report
-Project Objective:
-
-Generate Profit & Loss (P&L) reports categorized by fiscal year and months.
-Create market-specific Profit & Loss (P&L) reports.
-Purpose of Financial Analytics:
-
-Evaluate financial performance, support decision-making, and improve communication with stakeholders.
-Importance of Financial Data Analysis:
-
-Benchmark performance against industry standards and past data.
-Provide a foundation for budgeting and forecasting.
-Role of Reports:
-
-Align financial planning with strategic goals.
-Enhance confidence in the organization's financial stability and future outlook.
-Technical Skills Acquired
-Proficiency in ETL (Extract, Transform, Load) methodology.
-Generating a date table using Power Query.
-Creating fiscal months and quarters.
-Establishing data model relationships with Power Pivot.
-Integrating additional datasets into existing models.
-Utilizing DAX for calculated column creation.
-Soft Skills Developed
-Enhanced understanding of Sales & Finance reports.
-Designing intuitive, user-friendly reports.
-Refining report generation through optimization techniques.
-Adopting a structured approach to report development
+•	Purpose of Sales Analytics:	Enable businesses to monitor and evaluate sales activities effectively.
+•	Importance of Sales Data Analysis: Identify sales patterns and track key performance indicators (KPIs).
+•	Role of Reports:
+1	Optimize customer discounts for better retention.
+2	Support negotiation strategies with consumers.
+3	Identify potential markets for business expansion.
